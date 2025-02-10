@@ -17,11 +17,6 @@ Este proyecto es una aplicación web para una tienda online de productos electr�
   - Temas de Interfaz: Los usuarios pueden cambiar entre tema claro y oscuro.
 - **Interfaz Responsiva:** La aplicación proporciona una interfaz de usuario moderna y adaptable.
 
-## Objetivos del Proyecto
-
-- Desarrollar un sitio web para una tienda online que ofrezca una experiencia de compra sencilla, personalizable y segura.
-- Cumplir con los requisitos básicos de funcionalidad y usabilidad para los usuarios finales.
-
 ## Estructura del Proyecto
 
 El proyecto sigue una estructura simple, con los siguientes componentes principales:
